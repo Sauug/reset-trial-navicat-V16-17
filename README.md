@@ -1,0 +1,1 @@
+# reset-trial-navicat-16.x
