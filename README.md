@@ -45,6 +45,9 @@ foreach ($clsid in $clsids) {
     $infoPath = Join-Path $clsidPath 'Info'
     $shellFolderPath = Join-Path $clsidPath 'ShellFolder'
 
+    if ($clsid.StartsWith("{CAFEEFAC-")) {
+        continue
+    }
 
     if (Test-Path $infoPath) {
         
