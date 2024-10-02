@@ -1,8 +1,9 @@
 https://github.com/Sauug/reset-trial-navicat-16.x/assets/36141434/98c38b08-aa6d-47fa-a056-505454eda0b7
 
 ***Tested on 16.2.10 version.***
+***Tested on 17.1.3 version.***
 
-# reset-trial-navicat-16.x
+# reset-trial-navicat V16-17
 
 - Launch trial_reset_navicat.ps1 in administrator
 
