@@ -2,6 +2,7 @@ https://github.com/Sauug/reset-trial-navicat-16.x/assets/36141434/98c38b08-aa6d-
 
 ***Tested on 16.2.10 version.***
 ***Tested on 17.1.3 version.***
+***Tested on 17.3.4 version.***
 
 # reset-trial-navicat V16-17
 
